@@ -26,11 +26,11 @@ public class PlatformGenerator : MonoBehaviour
     private void Update()
     {
         CheckDistance();
-        distanceText.text = Mathf.FloorToInt(player.transform.position.z).ToString();
+        distanceText.text = Mathf.FloorToInt(player.transform.position.z).ToString() + " M";
     }
     public void CheckDistance()
     {
-        if (Mathf.Abs(player.transform.position.z - zPos) < 100)
+        if (Mathf.Abs(player.transform.position.z - zPos) < 160)
         {
             DestroyBlocks();
             GeneratePlatform();
