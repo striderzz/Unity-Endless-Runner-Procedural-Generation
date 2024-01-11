@@ -29,11 +29,6 @@ Open the `PlatformGenerator.cs` script in your Unity editor or preferred code ed
 - **Casual Game Framework:** Perfect for developing casual and addictive endless runner experiences.
 - **Dynamic Obstacle Placement:** Smart algorithms for placing obstacles, enhancing gameplay unpredictability.
 
-## Usage
-
-1. **Clone Repository:**
-   ```bash
-   git clone https://github.com/yourusername/Unity3D-Endless-Runner-Procedural-Generation.git
 ## Screenshots
 
 ![Screenshot (1527)](https://github.com/striderzz/Unity-Endless-Runner-Procedural-Generation/assets/72110940/c1597994-0606-44f0-ab25-6ccd046261c2)
