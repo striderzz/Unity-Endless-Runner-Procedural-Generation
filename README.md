@@ -35,4 +35,5 @@ Open the `PlatformGenerator.cs` script in your Unity editor or preferred code ed
    ```bash
    git clone https://github.com/yourusername/Unity3D-Endless-Runner-Procedural-Generation.git
 ## Screenshots
-![Screenshot (1524)](https://github.com/striderzz/Endless-Runner/assets/72110940/5aa37bb5-9a23-493d-8299-e5986adac173)
+
+![Screenshot (1527)](https://github.com/striderzz/Unity-Endless-Runner-Procedural-Generation/assets/72110940/c1597994-0606-44f0-ab25-6ccd046261c2)
