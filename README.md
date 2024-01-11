@@ -8,7 +8,7 @@ The Platform Generator script in this project is designed to be easily customiza
 
 ### Adjust Parameters
 
-Open the `CustomPlatformGenerator.cs` script in your Unity editor or preferred code editor. Within the script, you'll find parameters that you can customize:
+Open the `PlatformGenerator.cs` script in your Unity editor or preferred code editor. Within the script, you'll find parameters that you can customize:
 
 1. **Number of Tiles (`maxPlatformCount`):**
    - `maxPlatformCount` determines the maximum number of platform tiles generated. Adjust this value to control the length of your level.
